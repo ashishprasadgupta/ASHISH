@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.17655c3c.css",
-    "main.js": "/static/js/main.b8a044ce.js",
-    "index.html": "/index.html",
-    "main.17655c3c.css.map": "/static/css/main.17655c3c.css.map",
-    "main.b8a044ce.js.map": "/static/js/main.b8a044ce.js.map"
+    "main.css": "/ASHISH/static/css/main.17655c3c.css",
+    "main.js": "/ASHISH/static/js/main.b8a044ce.js",
+    "index.html": "/ASHISH/index.html",
+    "main.17655c3c.css.map": "/ASHISH/static/css/main.17655c3c.css.map",
+    "main.b8a044ce.js.map": "/ASHISH/static/js/main.b8a044ce.js.map"
   },
   "entrypoints": [
     "static/css/main.17655c3c.css",
